@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Documentation
+    url: https://bitmill.dev/docs
+    about: Check the docs before opening an issue — your answer might already be there.
+  - name: Troubleshooting Guide
+    url: https://bitmill.dev/docs/getting-started/troubleshooting
+    about: Common issues and fixes.
