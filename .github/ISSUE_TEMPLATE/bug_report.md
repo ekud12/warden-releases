@@ -22,17 +22,17 @@ assignees: ""
 
 ## Environment
 
-- **Warden version:** <!-- Run: warden version -->
+- **Warden version:** <!-- Run: warden --version -->
 - **OS:** <!-- e.g., Windows 11, macOS 14.4, Ubuntu 24.04 -->
 - **Agent:** <!-- Claude Code / Gemini CLI / Codex CLI -->
 - **Agent version:** <!-- e.g., claude-code 1.0.12 -->
 
 ## Doctor output
 
-<!-- Paste the output of: warden doctor -->
+<!-- Paste the output of: warden --debug doctor -->
 
 ```
-warden doctor output here
+warden --debug doctor output here
 ```
 
 ## Relevant logs

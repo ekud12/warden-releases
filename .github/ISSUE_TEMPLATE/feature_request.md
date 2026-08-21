@@ -20,7 +20,7 @@ assignees: ""
 
 ## Context
 
-- **Warden version:** <!-- Run: warden version -->
+- **Warden version:** <!-- Run: warden --version -->
 - **Agent:** <!-- Claude Code / Gemini CLI / Codex CLI -->
 - **Use case:** <!-- What kind of project/workflow does this affect? -->
 
